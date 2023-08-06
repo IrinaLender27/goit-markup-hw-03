@@ -365,6 +365,7 @@ img {
   flex-wrap: wrap;
   flex-basis: calc((100% - 24px * 2) / 3);
   align-content: flex-start;
+  border-top: none;
 }
 .portfolio .container {
   display: flex;
