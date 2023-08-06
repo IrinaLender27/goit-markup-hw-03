@@ -412,5 +412,6 @@ img {
   border: 1px solid var(--cornflower, #e7e9fc);
 }
 .position {
+  border-top: none;
   margin-bottom: 8px;
 }
