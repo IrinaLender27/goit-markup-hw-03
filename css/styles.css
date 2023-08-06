@@ -410,3 +410,6 @@ img {
   margin-bottom: 8px;
   border: 1px solid var(--cornflower, #e7e9fc);
 }
+.position {
+  margin-bottom: 8px;
+}
